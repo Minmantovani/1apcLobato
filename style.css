@@ -4,9 +4,11 @@ h1 {
     color: rgb(239, 7, 76);
 }
 body {
-    background-color: black;
+    background-color: rgb(123, 6, 6);
 }
 .floresta {
-    width: 20%
-    
+    width: 20%;
+    height: 20%;
+
+
 }
